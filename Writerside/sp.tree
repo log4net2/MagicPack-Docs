@@ -10,7 +10,9 @@
     <toc-element topic="03_Commands.md"/>
     <toc-element topic="04_BlockBench.md"/>
     <toc-element topic="05_ItemBuilder.md"/>
-
+    <toc-element topic="06_ItemBowBuilder3D.md"/>
+    <toc-element topic="07_ItemBowBuilder2D.md"/>
+    <toc-element topic="08_ItemCrossBowBuilder2D.md"/>
 
 </instance-profile>
 
