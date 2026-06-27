@@ -17,6 +17,7 @@
     <toc-element topic="10_SoundPlay.md"/>
     <toc-element topic="11_ModelEntity.md"/>
     <toc-element topic="12_CustomFontImage.md"/>
+    <toc-element topic="13_ConfigAutoLoad.md"/>
 
 </instance-profile>
 
